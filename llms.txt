@@ -1,21 +1,24 @@
-# bankruptcydenied.com
+# Bankruptcy Denied? -- What to Do Next [2026]
+> Was your bankruptcy denied or dismissed? Learn the common reasons, how to appeal, and how to refile successfully. 2026 guide.
 
-> Guide to bankruptcy case denial, dismissal, and discharge denial. Means test failure, bad faith filing, prior dismissals, fraud, and what to do if your case is denied.
+## About
+bankruptcydenied.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-bankruptcydenied.com is a free, open-source educational resource about bankruptcy. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://bankruptcydenied.com/: Can Bankruptcy Be Denied?
-- https://bankruptcydenied.com/chapter-7-denial.html: Chapter 7 Bankruptcy Denial -- Why Cases Get Dismissed
-- https://bankruptcydenied.com/means-test-failure.html: Means Test Failure -- What Happens If You Fail
-- https://bankruptcydenied.com/bad-faith-filing.html: Bad Faith Bankruptcy Filing -- What It Means
-- https://bankruptcydenied.com/prior-dismissal.html: Prior Bankruptcy Dismissal -- How It Affects Your New Case
-- https://bankruptcydenied.com/incomplete-paperwork.html: Incomplete Paperwork -- When Bankruptcy Is Dismissed for Missing Documents
-- https://bankruptcydenied.com/fraud-concealment.html: Fraud and Concealment in Bankruptcy -- Discharge Denial
-- https://bankruptcydenied.com/what-to-do-if-denied.html: What to Do If Your Bankruptcy Is Denied or Dismissed
-- https://bankruptcydenied.com/faq.html: Bankruptcy Denial FAQ
+## Key Pages
+- Bad Faith Bankruptcy Filing -- What It Means: https://bankruptcydenied.com/bad-faith-filing.html
+- Chapter 7 Bankruptcy Denial -- Why Cases Get Dismissed: https://bankruptcydenied.com/chapter-7-denial.html
+- Bankruptcy Denial FAQ: https://bankruptcydenied.com/faq.html
+- Fraud and Concealment in Bankruptcy -- Discharge Denial: https://bankruptcydenied.com/fraud-concealment.html
+- Incomplete Paperwork -- When Bankruptcy Is Dismissed for Missing Documents: https://bankruptcydenied.com/incomplete-paperwork.html
+- Bankruptcy Denied? -- What to Do Next: https://bankruptcydenied.com/
+- Means Test Failure -- What Happens If You Fail: https://bankruptcydenied.com/means-test-failure.html
+- Prior Bankruptcy Dismissal -- How It Affects Your New Case: https://bankruptcydenied.com/prior-dismissal.html
+- What to Do If Your Bankruptcy Is Denied or Dismissed: https://bankruptcydenied.com/what-to-do-if-denied.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).

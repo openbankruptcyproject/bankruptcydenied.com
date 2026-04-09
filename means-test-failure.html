@@ -256,6 +256,8 @@
     table { font-size: 0.8rem; }
     th, td { padding: 0.5rem 0.6rem; }
   }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 <script type="application/ld+json">
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Means Test Failure -- Now What?", "acceptedAnswer": {"@type": "Answer", "text": "While bankruptcy is federal law, each state sets its own exemptions that determine what property you can keep. Some states also allow you to choose between state and federal exemptions. Your state's median income determines Chapter 7 eligibility through the means test."}}, {"@type": "Question", "name": "How does bankruptcy work in my state?", "acceptedAnswer": {"@type": "Answer", "text": "While bankruptcy is federal law, each state sets its own exemptions that determine what property you can keep. Some states also allow you to choose between state and federal exemptions. Your state's median income determines Chapter 7 eligibility through the means test."}}, {"@type": "Question", "name": "What are my state's bankruptcy exemptions?", "acceptedAnswer": {"@type": "Answer", "text": "Every state has its own set of exemptions covering your home, car, personal property, and retirement accounts. Some states are very generous with homestead exemptions, while others offer minimal protection. Check your specific state's exemption amounts before filing."}}, {"@type": "Question", "name": "Do I have to file bankruptcy in the state where I live?", "acceptedAnswer": {"@type": "Answer", "text": "You file in the federal district where you have lived for the greater portion of the last 180 days. If you recently moved, you may need to use your previous state's exemptions for up to two years after the move under the hanging paragraph rule."}}, {"@type": "Question", "name": "Does my state allow federal bankruptcy exemptions?", "acceptedAnswer": {"@type": "Answer", "text": "About 17 states allow debtors to choose between state and federal exemptions. The remaining states require you to use state exemptions only. If you have the choice, compare both sets to determine which protects more of your property."}}]}
@@ -283,6 +285,8 @@
 </nav>
 
 <header><h1><span class="accent">Means Test Failure</span> -- Now What?</h1><p class="subtitle">Failing the means test does not mean you cannot file bankruptcy. It means Chapter 7 may not be available -- but you have options.</p></header><main>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcydenied.com">bankruptcydenied.com</a><span class="separator">&rsaquo;</span><span>Means Test Failure -- What Happens If You Fail</span></nav>
+
 <div class="content-section"><h2>How the means test works</h2><p>The <a href="https://meanstest.org">means test</a> under <strong>11 U.S.C. &sect; 707(b)(2)</strong> is a two-step income analysis:</p><ol>
 <li><strong>Step 1: Compare your income to the state median.</strong> If your current monthly income (averaged over the 6 months before filing) is below your state's median income for your household size, you pass. No further analysis needed.</li>
 <li><strong>Step 2: Calculate disposable income.</strong> If your income exceeds the median, subtract allowed expenses (IRS standards, actual secured debt payments, and other deductions). If the result shows you could pay at least $8,175 over 60 months (or 25% of your unsecured debt), a presumption of abuse arises.</li>
@@ -429,5 +433,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 <script src="/btn-engage.js" defer></script>
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString()}).catch(function(){})</script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
 </body>
 </html>

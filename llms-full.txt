@@ -1,0 +1,1708 @@
+# bankruptcydenied.com -- Full Content
+
+This file contains the full text content of all pages on bankruptcydenied.com.
+Part of the Open Bankruptcy Project (openbankruptcyproject.org).
+
+
+---
+
+## Bad Faith Bankruptcy Filing -- What It Means
+Source: https://bankruptcydenied.com/bad-faith-filing.html
+
+bankruptcydenied.com
+☰
+
+Home
+Ch. 7 Denial
+Means Test
+Bad Faith
+Prior Dismissal
+Incomplete Filing
+Fraud
+What to Do
+FAQ
+
+Bad Faith Bankruptcy Filing
+
+Filing bankruptcy for improper purposes -- to delay creditors, abuse the system, or gain unfair advantage -- can result in dismissal and refiling restrictions.
+
+What is bad faith?
+
+Under 11 U.S.C. § 707(b)(3) (Chapter 7) and § 1325(a)(3) (Chapter 13), the court evaluates whether the filing was made in good faith. There is no single definition of bad faith -- courts look at the totality of the circumstances.
+
+Common indicators of bad faith include:
+
+Serial filings. Filing repeatedly to abuse the automatic stay and delay creditors without genuine intent to reorganize or obtain a discharge. See serialfiler.org.
+
+Filing on the eve of foreclosure. Filing solely to delay a scheduled foreclosure sale, with no ability to propose a viable plan.
+
+Concealing assets or income. Filing while hiding property or understating income.
+
+Timing manipulation. Strategically filing to exploit lookback periods or to defeat a specific creditor action.
+
+No genuine financial distress. Filing when you can actually pay your debts but prefer not to.
+
+Consequences of bad faith finding
+
+Case dismissal under § 707(b) or § 1307(c)
+
+180-day refiling bar under § 109(g)
+
+In extreme cases, a permanent injunction against refiling without court permission
+
+Sanctions or attorney fee awards to affected creditors
+
+How courts evaluate good faith
+
+Courts typically consider factors including: accuracy and completeness of the petition, whether the debtor has a genuine need for relief, the debtor's payment history, whether the filing was timed to abuse the process, and the debtor's overall conduct. Good faith is evaluated case by case.
+
+Serial filings trigger special rules. Under 11 U.S.C. § 362(c)(3), if you had a case dismissed within the past year, the automatic stay in your new case lasts only 30 days (instead of for the duration of the case). If you had two or more cases dismissed within the past year, § 362(c)(4) provides no automatic stay at all -- you must file a motion and prove good faith to get stay protection.
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Ch. 7 Denial ·
+Means Test ·
+Bad Faith ·
+Prior Dismissal ·
+Incomplete Filing ·
+Fraud ·
+What to Do ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Chapter 7 Bankruptcy Denial -- Why Cases Get Dismissed
+Source: https://bankruptcydenied.com/chapter-7-denial.html
+
+bankruptcydenied.com
+☰
+
+Home
+Ch. 7 Denial
+Means Test
+Bad Faith
+Prior Dismissal
+Incomplete Filing
+Fraud
+What to Do
+FAQ
+
+Chapter 7 Denial -- Why Cases Get Dismissed
+
+Chapter 7 cases can be dismissed for abuse, means test failure, bad faith, or procedural failures. Here is what triggers dismissal.
+
+Grounds for Chapter 7 dismissal
+
+Under 11 U.S.C. § 707, the court can dismiss a Chapter 7 case for several reasons:
+
+1. Means test failure (§ 707(b)(2))
+
+The means test compares your income to your state's median income. If your income exceeds the median and the means test formula shows you can repay a significant portion of your debts, the case is presumed to be an abuse. See our means test failure guide.
+
+2. Totality of circumstances abuse (§ 707(b)(3))
+
+Even if you pass the means test, the court can dismiss for abuse based on the totality of your circumstances. Indicators include: ability to pay debts from future income, recent lavish spending, or strategically timing income to manipulate the means test.
+
+3. Bad faith (§ 707(b)(3)(A))
+
+Filing in bad faith -- to delay creditors, to abuse the process, or for improper purposes -- is grounds for dismissal. See our bad faith guide.
+
+4. Failure to comply with filing requirements
+
+Under § 521, you must file all required documents within specified deadlines. Failure to provide tax returns, pay stubs, credit counseling certificates, or complete schedules can result in automatic dismissal.
+
+5. Prior discharge time bar
+
+Under 11 U.S.C. § 727(a)(8), you cannot receive a Chapter 7 discharge if you received one in a prior Chapter 7 case filed within 8 years. Under § 1328(f), a prior Chapter 13 discharge within 6 years bars a Chapter 7 discharge (with exceptions).
+
+What happens after dismissal?
+
+When a Chapter 7 case is dismissed, the automatic stay lifts and creditors can resume collection. You can typically refile unless the court orders otherwise under § 109(g). If the dismissal is for abuse, the court may impose a 180-day bar on refiling or conditions on any future filing.
+
+Conversion is often an option. If your Chapter 7 case is at risk of dismissal for means test failure, you may be able to convert to Chapter 13 under 11 U.S.C. § 706(a). Chapter 13 does not have a means test -- instead, your income determines your plan payment amount.
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Ch. 7 Denial ·
+Means Test ·
+Bad Faith ·
+Prior Dismissal ·
+Incomplete Filing ·
+Fraud ·
+What to Do ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Bankruptcy Denial FAQ
+Source: https://bankruptcydenied.com/faq.html
+
+bankruptcydenied.com
+☰
+
+Home
+Ch. 7 Denial
+Means Test
+Bad Faith
+Prior Dismissal
+Incomplete Filing
+Fraud
+What to Do
+FAQ
+
+Bankruptcy Denial FAQ
+
+Common questions about what happens when bankruptcy does not go as planned.
+
+Frequently asked questions
+
+How many times can you file bankruptcy?
+
+There is no statutory limit on filings. You can file as many times as you want. But you can only receive a discharge within certain time limits: 8 years between Chapter 7 discharges, 6 years between Chapter 13 and Chapter 7 (with exceptions), 4 years between Chapter 7 and Chapter 13, and 2 years between Chapter 13 discharges. Check 1328f.com for the specific time bars under 11 U.S.C. § 1328(f).
+
+Can a creditor object to my discharge?
+
+Yes. Under 11 U.S.C. § 727(c), the trustee, a creditor, or the U.S. Trustee can object to your discharge. The complaint must be filed within 60 days after the first date set for the 341 meeting under Bankruptcy Rule 4004(a).
+
+What is the difference between discharge denial and nondischargeability?
+
+Discharge denial under § 727 means none of your debts are discharged -- you get no fresh start at all. Nondischargeability under § 523 means specific debts survive while the rest are discharged. You can lose the battle on one debt but still win the war on everything else.
+
+Does a dismissed bankruptcy hurt my credit?
+
+Yes. The filing itself appears on your credit report for 7 to 10 years, regardless of whether it results in a discharge or dismissal. However, a dismissed case may actually look worse than a completed case to some lenders, because it suggests the filing failed.
+
+Can I refile immediately after dismissal?
+
+Usually, unless the court imposed a 180-day bar under § 109(g). But be aware that repeat filings within a year trigger reduced automatic stay under § 362(c)(3)-(4). You may need to file a motion for stay protection in the new case.
+
+What if my Chapter 13 plan is denied confirmation?
+
+You can amend the plan and resubmit it. Most courts allow multiple amendments. If the plan cannot be made to work, you can convert to Chapter 7 (if you qualify) or the case will be dismissed under § 1307(c).
+
+Can I get my filing fee back if the case is denied?
+
+No. Filing fees are not refundable. The Chapter 7 filing fee is $338 and the Chapter 13 filing fee is $313. If you qualify as low-income, you may be able to file a fee waiver application under 28 U.S.C. § 1930(f).
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Ch. 7 Denial ·
+Means Test ·
+Bad Faith ·
+Prior Dismissal ·
+Incomplete Filing ·
+Fraud ·
+What to Do ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Fraud and Concealment in Bankruptcy -- Discharge Denial
+Source: https://bankruptcydenied.com/fraud-concealment.html
+
+bankruptcydenied.com
+☰
+
+Home
+Ch. 7 Denial
+Means Test
+Bad Faith
+Prior Dismissal
+Incomplete Filing
+Fraud
+What to Do
+FAQ
+
+Fraud and Concealment -- Discharge Denial
+
+Hiding assets, lying under oath, or destroying financial records can permanently cost you your bankruptcy discharge.
+
+Grounds for discharge denial
+
+11 U.S.C. § 727(a) lists specific grounds for denying a debtor's discharge entirely. Unlike case dismissal (which lets you refile), discharge denial means all your debts survive the bankruptcy permanently for that case.
+
+The statutory grounds
+
+§ 727(a)(2): Transferring, destroying, or concealing property with intent to defraud, within 1 year before filing or during the case
+
+§ 727(a)(3): Concealing, destroying, mutilating, or failing to keep adequate financial records
+
+§ 727(a)(4): Making a false oath or account -- this includes any false statement on your petition, schedules, or at the 341 meeting
+
+§ 727(a)(5): Failing to satisfactorily explain any loss of assets or deficiency of assets to meet liabilities
+
+§ 727(a)(6): Refusing to obey a lawful court order or refusing to testify (invoking Fifth Amendment after being granted immunity)
+
+Criminal penalties
+
+Beyond losing your discharge, bankruptcy fraud is a federal crime:
+
+18 U.S.C. § 152: Concealment of assets, false oaths, false claims, and other fraudulent acts in bankruptcy cases are punishable by up to 5 years in prison and a $250,000 fine.
+
+The U.S. Trustee's office actively monitors for fraud and refers cases to the U.S. Attorney for prosecution. The Department of Justice Bankruptcy Fraud Initiative processes hundreds of referrals per year.
+
+How fraud is discovered
+
+Bank statement analysis. Trustees compare deposits against reported income and look for hidden accounts.
+
+Public records searches. Property records, vehicle registrations, business filings, and court records reveal undisclosed assets.
+
+Creditor tips. Creditors who know about hidden assets can inform the trustee.
+
+Social media. Posts showing expensive purchases, travel, or lifestyle inconsistent with the petition.
+
+Cross-referencing tax returns. Comparing IRS records against the petition reveals omitted income, assets, and transfers.
+
+Discharge denial is permanent for the case. Once denied, there is no appeal or do-over within the same case. You may be able to file a new case in the future (subject to time bars and any refiling restrictions), but you will carry the stigma of a prior denial -- and the court in the new case will scrutinize everything closely.
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Ch. 7 Denial ·
+Means Test ·
+Bad Faith ·
+Prior Dismissal ·
+Incomplete Filing ·
+Fraud ·
+What to Do ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Incomplete Paperwork -- When Bankruptcy Is Dismissed for Missing Documents
+Source: https://bankruptcydenied.com/incomplete-paperwork.html
+
+bankruptcydenied.com
+☰
+
+Home
+Ch. 7 Denial
+Means Test
+Bad Faith
+Prior Dismissal
+Incomplete Filing
+Fraud
+What to Do
+FAQ
+
+Incomplete Paperwork -- Procedural Dismissal
+
+Filing bankruptcy requires extensive documentation. Missing deadlines or omitting required documents leads to automatic dismissal.
+
+Required documents and deadlines
+
+Under 11 U.S.C. § 521, the debtor must file a substantial set of documents:
+
+Schedules A/B through J -- assets, liabilities, income, expenses, executory contracts
+
+Statement of Financial Affairs (SOFA) -- comprehensive financial history
+
+Means test form (Chapter 7) or Chapter 13 plan
+
+Credit counseling certificate -- must be completed within 180 days before filing
+
+Tax returns -- most recent year filed, provided to the trustee at least 7 days before the 341 meeting
+
+Pay stubs -- 60 days of pay advices, provided to the trustee before the 341 meeting
+
+Photo ID and SSN verification -- presented at the 341 meeting
+
+If schedules are not filed within 14 days of the petition (or an extended deadline), the case is automatically dismissed under § 521(i).
+
+Common procedural failures
+
+Missing the credit counseling requirement. Under § 109(h), you must complete a course from an approved provider before filing. Filing without it renders the petition deficient.
+
+Failing to provide tax returns. Under § 521(e)(2), failure to provide tax returns to the trustee can result in dismissal.
+
+Incomplete schedules. Leaving assets off Schedule A/B, omitting creditors from Schedules D/E/F, or failing to list income sources will draw trustee scrutiny and potential dismissal.
+
+Missing the 341 meeting. Failure to attend is grounds for dismissal. See what happens if you miss it.
+
+How to avoid procedural dismissal
+
+Gather all required documents before filing -- do not file first and gather later
+
+Complete credit counseling before your attorney files the petition
+
+Provide tax returns and pay stubs to the trustee promptly
+
+Respond to all trustee requests within the stated deadline
+
+If you need more time, file a motion for extension before the deadline passes
+
+Procedural dismissals are usually fixable. If your case is dismissed for incomplete paperwork, you can typically refile after gathering the missing documents. There is generally no bar on refiling for procedural dismissals (unlike bad-faith dismissals).
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Ch. 7 Denial ·
+Means Test ·
+Bad Faith ·
+Prior Dismissal ·
+Incomplete Filing ·
+Fraud ·
+What to Do ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Bankruptcy Denied? -- What to Do Next [2026]
+Source: https://bankruptcydenied.com/
+
+bankruptcydenied.com
+☰
+
+Home
+Ch. 7 Denial
+Means Test
+Bad Faith
+Prior Dismissal
+Incomplete Filing
+Fraud
+What to Do
+FAQ
+
+Bankruptcy Denied?
+
+Yes. Your case can be dismissed, your plan can be denied confirmation, and your discharge can be refused. Here is why it happens and what you can do about it.
+
+~33%
+Ch. 13 cases dismissed (national avg)
+
+180 days
+Potential refiling bar after dismissal
+
+8 years
+Ch. 7 to Ch. 7 discharge bar
+
+Three ways bankruptcy can fail
+
+When people ask "can bankruptcy be denied?" they usually mean one of three different things:
+
+Case dismissal. The court throws out your case before you get a discharge. Common reasons: failing the means test, incomplete paperwork, bad faith filing, or violating court orders. National bankruptcy dismissal statistics show significant variation across districts and attorneys.
+
+Discharge denial. Your case proceeds, but the court refuses to grant you a discharge. This means all your debts survive. Grounds include fraud, concealment, and false statements under 11 U.S.C. § 727(a).
+
+Plan denial (Chapter 13). The court refuses to confirm your Chapter 13 plan because it does not meet the legal requirements of 11 U.S.C. § 1325. You can amend and resubmit, but repeated failures lead to dismissal.
+
+Common reasons for denial
+
+Chapter 7 Denial
+
+Means test failure, totality of circumstances abuse, and other reasons your Chapter 7 case can be dismissed.
+
+Means Test Failure
+
+How the means test works, what happens if you fail it, and your options if your income is too high for Chapter 7.
+
+Bad Faith Filing
+
+What constitutes bad faith in bankruptcy. Serial filings, timing abuse, and filing to delay creditors.
+
+Prior Dismissal
+
+How a prior dismissal affects your new case. Reduced automatic stay, refiling bars, and repeat filer rules.
+
+Incomplete Paperwork
+
+Missing documents, unfiled schedules, and procedural failures that lead to case dismissal.
+
+Fraud and Concealment
+
+How hiding assets, lying under oath, and destroying records can result in permanent denial of discharge.
+
+What to Do If Denied
+
+Your options after denial -- refiling, converting to another chapter, appealing, or negotiating with creditors.
+
+FAQ
+
+Common questions about bankruptcy denial, dismissal, and what happens next.
+
+Discharge denial is permanent for that case. If the court denies your discharge under § 727(a), there is no second chance in that case. All debts survive. You may be able to refile a new case in the future (subject to time bars), but the denial stands for the current case.
+
+Dismissal is usually not the end. Most dismissals are for procedural reasons (incomplete paperwork, missed deadlines) that can be corrected. You can typically refile after fixing the problems, unless the court imposes a bar on refiling.
+
+462+ Court Documents Freed from PACER
+
+We buy federal court records and donate them to RECAP so no one has to pay. Browse the archive →
+
+$16,500+ spent · $0 donated · $0 hosting · 105 domains · 2,000+ pages · All free, forever.
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328 discharge requirements(f) bankruptcy discharge bar rules screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Have a Question?
+
+Open Bankruptcy Project provides free educational information. We are not a law firm.
+Nothing on this site constitutes legal advice. For advice about your specific situation,
+consult a licensed attorney.
+
+Select your state...
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+District of Columbia
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+American Samoa
+Guam
+Northern Mariana Islands
+Puerto Rico
+U.S. Virgin Islands
+
+I understand this is educational information, not legal advice.
+
+Submit Question
+
+Thank you! We typically respond within one business day.
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+State Bankruptcy Guides
+
+Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.
+
+California · Texas · Florida · New York · Illinois · Ohio
+
+Browse All 50 State Guides →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Ch. 7 Denial ·
+Means Test ·
+Bad Faith ·
+Prior Dismissal ·
+Incomplete Filing ·
+Fraud ·
+What to Do ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Means Test Failure -- What Happens If You Fail
+Source: https://bankruptcydenied.com/means-test-failure.html
+
+bankruptcydenied.com
+☰
+
+Home
+Ch. 7 Denial
+Means Test
+Bad Faith
+Prior Dismissal
+Incomplete Filing
+Fraud
+What to Do
+FAQ
+
+Means Test Failure -- Now What?
+
+Failing the means test does not mean you cannot file bankruptcy. It means Chapter 7 may not be available -- but you have options.
+
+How the means test works
+
+The means test under 11 U.S.C. § 707(b)(2) is a two-step income analysis:
+
+Step 1: Compare your income to the state median. If your current monthly income (averaged over the 6 months before filing) is below your state's median income for your household size, you pass. No further analysis needed.
+
+Step 2: Calculate disposable income. If your income exceeds the median, subtract allowed expenses (IRS standards, actual secured debt payments, and other deductions). If the result shows you could pay at least $8,175 over 60 months (or 25% of your unsecured debt), a presumption of abuse arises.
+
+What the presumption of abuse means
+
+If the means test creates a presumption of abuse, it does not automatically dismiss your case. The U.S. Trustee reviews the results and may file a motion to dismiss under § 707(b). You then have the opportunity to rebut the presumption by showing "special circumstances" that justify additional expenses or income adjustments.
+
+Special circumstances can include: serious medical conditions, call to active military duty, or other documented, unusual expenses that the standard means test does not capture.
+
+Your options if you fail
+
+Rebut the presumption. Show special circumstances that reduce your disposable income below the threshold.
+
+Convert to Chapter 13. Chapter 13 has no means test. Your income determines your plan payment, not your eligibility. Under 11 U.S.C. § 706(a), you have the right to convert.
+
+Wait and refile. If your income is temporarily high (overtime, bonus, seasonal work), waiting until it normalizes may change the means test result. The test uses a 6-month lookback.
+
+Adjust deductions. Legitimate increases in expenses -- higher mortgage payments, medical costs, childcare -- can change the calculation.
+
+Failing the means test is not the end. Chapter 13 is available regardless of income, and many people who fail the means test successfully complete Chapter 13 plans. The means test only gates access to Chapter 7 -- it does not prevent bankruptcy relief entirely.
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Ch. 7 Denial ·
+Means Test ·
+Bad Faith ·
+Prior Dismissal ·
+Incomplete Filing ·
+Fraud ·
+What to Do ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Prior Bankruptcy Dismissal -- How It Affects Your New Case
+Source: https://bankruptcydenied.com/prior-dismissal.html
+
+bankruptcydenied.com
+☰
+
+Home
+Ch. 7 Denial
+Means Test
+Bad Faith
+Prior Dismissal
+Incomplete Filing
+Fraud
+What to Do
+FAQ
+
+Prior Dismissal and Refiling
+
+If your previous bankruptcy was dismissed, your new case faces special rules. Reduced stay protection, refiling bars, and heightened scrutiny.
+
+The 180-day refiling bar
+
+Under 11 U.S.C. § 109(g), a debtor may not file a new bankruptcy case within 180 days of a dismissal if the prior case was dismissed for:
+
+Willful failure to abide by court orders
+
+Willful failure to appear before the court
+
+Voluntary dismissal after a creditor filed a motion for relief from the automatic stay
+
+If none of these apply, there is generally no automatic waiting period before refiling. But the court in the new case will closely examine the circumstances of the prior dismissal.
+
+Reduced automatic stay
+
+The most significant consequence of a prior dismissal is reduced automatic stay protection in your new case:
+
+SituationAutomatic Stay DurationSection
+
+No prior dismissalFull stay (duration of case)§ 362(a)
+
+1 dismissal in past year30 days only (unless extended by court)§ 362(c)(3)
+
+2+ dismissals in past yearNo stay at all (must petition court)§ 362(c)(4)
+
+To extend the stay beyond 30 days (or to obtain one at all with 2+ dismissals), you must file a motion within the first 30 days and demonstrate that the new case was filed in good faith.
+
+Proving good faith after a dismissal
+
+Courts look at whether your circumstances have changed since the dismissed case. Factors include:
+
+Did your financial situation change (job loss, medical emergency)?
+
+Did you address the problems that caused the prior dismissal?
+
+Are you filing to reorganize genuinely, or just to delay?
+
+How many prior filings have you had?
+
+Time bars from prior discharges are separate from dismissal rules. If your prior case resulted in a discharge (not just a dismissal), you must also satisfy the time bars under 11 U.S.C. § 727(a)(8)-(9) and § 1328(f). A dismissal without discharge does not trigger these time bars.
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Ch. 7 Denial ·
+Means Test ·
+Bad Faith ·
+Prior Dismissal ·
+Incomplete Filing ·
+Fraud ·
+What to Do ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## What to Do If Your Bankruptcy Is Denied or Dismissed
+Source: https://bankruptcydenied.com/what-to-do-if-denied.html
+
+bankruptcydenied.com
+☰
+
+Home
+Ch. 7 Denial
+Means Test
+Bad Faith
+Prior Dismissal
+Incomplete Filing
+Fraud
+What to Do
+FAQ
+
+What to Do If Bankruptcy Is Denied
+
+Denial is not always the end. You may be able to refile, convert chapters, appeal, or pursue alternative debt relief.
+
+Understand why it happened
+
+The first step is understanding exactly why your case was denied or dismissed. The reason determines your options:
+
+ReasonBest Option
+
+Incomplete paperworkGather documents and refile
+
+Means test failureConvert to Chapter 13 or wait and refile
+
+Bad faith / abuseAddress underlying issues, wait 180 days if barred, then refile
+
+Prior discharge time barWait for the bar to expire (use 1328f.com to check)
+
+Discharge denied (fraud)Consult an attorney -- very limited options in current case
+
+Plan not confirmed (Ch. 13)Amend plan and resubmit, or convert to Chapter 7
+
+Option 1: Refile
+
+If your case was dismissed (not discharge denied), you can usually refile. Check for any refiling bars under § 109(g). Be aware that under § 362(c)(3)-(4), repeat filings within a year get reduced automatic stay protection.
+
+Option 2: Convert chapters
+
+If your Chapter 7 case is at risk of dismissal for means test failure, you can convert to Chapter 13 under 11 U.S.C. § 706(a). Conversely, if your Chapter 13 plan cannot be confirmed, you may be able to convert to Chapter 7 under § 1307(a) (if you qualify under the means test).
+
+Option 3: Appeal
+
+You can appeal a dismissal or discharge denial to the Bankruptcy Appellate Panel (BAP) or the district court within 14 days under Federal Rule of Bankruptcy Procedure 8002. Appeals are expensive and succeed only if the trial court made a clear legal error. Consult an experienced appellate attorney.
+
+Option 4: Non-bankruptcy alternatives
+
+If bankruptcy is not available or viable, consider:
+
+Debt negotiation / settlement. Negotiate directly with creditors to reduce balances.
+
+State court remedies. Some states offer debtor protections, homestead declarations, or wage garnishment limits.
+
+Judgment-proof status. If you have no assets and no garnishable income, creditors cannot collect. Being judgment-proof is not a formal legal status, but it is a practical reality.
+
+Debt management plans. Nonprofit credit counseling agencies can negotiate reduced interest rates and consolidated payments.
+
+Most people who are denied can still find relief. Procedural dismissals are fixable. Means test failures lead to Chapter 13. Even after discharge denial, debts may become practically uncollectible. An experienced bankruptcy attorney can evaluate your specific situation and find the best path forward.
+
+Related Guides
+
+Can I File Bankruptcy Again?
+
+Bankruptcy Dismissed -- What Now?
+
+File Bankruptcy Again Guide
+
+Section 109(g) Filing Bar
+
+Related Topics
+
+How to File Bankruptcy
+What Is Chapter 7?
+Chapter 13 Plans
+The Means Test
+
+Related Resources
+
+The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+
+Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+
+Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+
+Federal Rules Committee
+
+This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptcy Rules
+
+Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
+
+Stay updated on new datasets and research findings
+
+No spam. No marketing. Just data.
+
+Subscribe
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending), funding PACER access fees and bankruptcy court transparency research.
+
+Support on GitHub
+
+PACER cases made free through RECAP: 91 of 37.9 million
+
+Every document we access becomes permanently free for the next researcher, attorney, or debtor.
+
+$0 of $5,000 Q1 PACER research goal
+
+1,500+ hours. No grants, no institutional backing. 0 supporters so far.
+
+Support on GitHub
+
+Further Reading & Resources
+
+Authority sources for deeper research on bankruptcy denial and dismissal:
+
+11 U.S.C. Section 707
+Cornell LII -- Chapter 7 dismissal
+
+11 U.S.C. Section 1307
+Cornell LII -- Chapter 13 dismissal
+
+Bankruptcy Basics
+USCourts.gov
+
+U.S. Trustee Program
+DOJ -- motions to dismiss
+
+CFPB: Bankruptcy Overview
+Consumer guide
+
+Find Free Legal Aid
+LSC legal aid finder
+
+Dismissal Research
+Google Scholar
+
+FJC Bankruptcy Statistics
+Federal Judicial Center
+
+Related Guides
+
+Bankruptcy Discharge Guide
+
+How the bankruptcy discharge process works
+
+bankruptcydischarge.org →
+
+Nondischargeable Debts Under 523(a)
+
+Which debts survive bankruptcy and why
+
+523a.org →
+
+Section 524 Discharge Injunction
+
+Free bankruptcy information guide
+
+524injunction.com →
+
+Chapter 7 Discharge Time Bar Guide
+
+Complete guide to the 8-year Chapter 7 discharge bar
+
+727a8.com →
+
+Free bankruptcy education. Not legal advice.
+
+Home ·
+Ch. 7 Denial ·
+Means Test ·
+Bad Faith ·
+Prior Dismissal ·
+Incomplete Filing ·
+Fraud ·
+What to Do ·
+FAQ
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).

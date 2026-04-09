@@ -258,6 +258,8 @@
     table { font-size: 0.8rem; }
     th, td { padding: 0.5rem 0.6rem; }
   }
+
+.breadcrumb-nav{font-size:0.85rem;color:#8b949e;padding:0.5rem 0;max-width:900px;margin:0 auto}.breadcrumb-nav a{color:#58a6ff;text-decoration:none}.breadcrumb-nav a:hover{text-decoration:underline}.breadcrumb-nav .separator{margin:0 0.5rem;color:#484f58}
 </style>
 
 <link rel="alternate" hreflang="en" href="https://bankruptcydenied.com/faq.html">
@@ -282,6 +284,8 @@
 </nav>
 
 <header><h1>Bankruptcy <span class="accent">Denial FAQ</span></h1><p class="subtitle">Common questions about what happens when bankruptcy does not go as planned.</p></header><main>
+<nav class="breadcrumb-nav" aria-label="Breadcrumb"><a href="https://1328f.org">Home</a><span class="separator">&rsaquo;</span><a href="https://bankruptcydenied.com">bankruptcydenied.com</a><span class="separator">&rsaquo;</span><span>Bankruptcy Denial FAQ</span></nav>
+
 <div class="content-section"><h2>Frequently asked questions</h2>
 <h3>How many times can you file bankruptcy?</h3><p>There is no statutory limit on filings. You can file as many times as you want. But you can only <strong>receive a discharge</strong> within certain time limits: 8 years between Chapter 7 discharges, 6 years between Chapter 13 and Chapter 7 (with exceptions), 4 years between Chapter 7 and Chapter 13, and 2 years between Chapter 13 discharges. Check <a href="https://1328f.com">1328f.com</a> for the specific time bars under <strong>11 U.S.C. &sect; 1328(f)</strong>.</p>
 <h3>Can a creditor object to my discharge?</h3><p>Yes. Under <strong>11 U.S.C. &sect; 727(c)</strong>, the trustee, a creditor, or the U.S. Trustee can object to your discharge. The complaint must be filed within 60 days after the first date set for the 341 meeting under <strong>Bankruptcy Rule 4004(a)</strong>.</p>
@@ -424,5 +428,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 <script src="/btn-engage.js" defer></script>
 <script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString()}).catch(function(){})</script>
+<script src="https://openbankruptcyproject.org/btn-search.js" defer></script>
 </body>
 </html>
