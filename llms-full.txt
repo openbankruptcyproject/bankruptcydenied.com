@@ -6,7 +6,7 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## Bad Faith Bankruptcy Filing -- What It Means
+## Bad Faith Bankruptcy Filing - What It Means
 Source: https://bankruptcydenied.com/bad-faith-filing.html
 
 bankruptcydenied.com
@@ -24,11 +24,13 @@ FAQ
 
 Bad Faith Bankruptcy Filing
 
-Filing bankruptcy for improper purposes -- to delay creditors, abuse the system, or gain unfair advantage -- can result in dismissal and refiling restrictions.
+Filing bankruptcy for improper purposes - to delay creditors, abuse the system, or gain unfair advantage - can result in dismissal and refiling restrictions.
+
+Home›bankruptcydenied.com›Bad Faith Bankruptcy Filing - What It Means
 
 What is bad faith?
 
-Under 11 U.S.C. § 707(b)(3) (Chapter 7) and § 1325(a)(3) (Chapter 13), the court evaluates whether the filing was made in good faith. There is no single definition of bad faith -- courts look at the totality of the circumstances.
+Under 11 U.S.C. § 707(b)(3) (Chapter 7) and § 1325(a)(3) (Chapter 13), the court evaluates whether the filing was made in good faith. There is no single definition of bad faith - courts look at the totality of the circumstances.
 
 Common indicators of bad faith include:
 
@@ -56,13 +58,13 @@ How courts evaluate good faith
 
 Courts typically consider factors including: accuracy and completeness of the petition, whether the debtor has a genuine need for relief, the debtor's payment history, whether the filing was timed to abuse the process, and the debtor's overall conduct. Good faith is evaluated case by case.
 
-Serial filings trigger special rules. Under 11 U.S.C. § 362(c)(3), if you had a case dismissed within the past year, the automatic stay in your new case lasts only 30 days (instead of for the duration of the case). If you had two or more cases dismissed within the past year, § 362(c)(4) provides no automatic stay at all -- you must file a motion and prove good faith to get stay protection.
+Serial filings trigger special rules. Under 11 U.S.C. § 362(c)(3), if you had a case dismissed within the past year, the automatic stay in your new case lasts only 30 days (instead of for the duration of the case). If you had two or more cases dismissed within the past year, § 362(c)(4) provides no automatic stay at all - you must file a motion and prove good faith to get stay protection.
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -77,11 +79,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -114,16 +116,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -180,7 +182,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Chapter 7 Bankruptcy Denial -- Why Cases Get Dismissed
+## Chapter 7 Bankruptcy Denial - Why Cases Get Dismissed
 Source: https://bankruptcydenied.com/chapter-7-denial.html
 
 bankruptcydenied.com
@@ -196,9 +198,11 @@ Fraud
 What to Do
 FAQ
 
-Chapter 7 Denial -- Why Cases Get Dismissed
+Chapter 7 Denial - Why Cases Get Dismissed
 
 Chapter 7 cases can be dismissed for abuse, means test failure, bad faith, or procedural failures. Here is what triggers dismissal.
+
+Home›bankruptcydenied.com›Chapter 7 Bankruptcy Denial - Why Cases Get Dismi
 
 Grounds for Chapter 7 dismissal
 
@@ -214,7 +218,7 @@ Even if you pass the means test, the court can dismiss for abuse based on the to
 
 3. Bad faith (§ 707(b)(3)(A))
 
-Filing in bad faith -- to delay creditors, to abuse the process, or for improper purposes -- is grounds for dismissal. See our bad faith guide.
+Filing in bad faith - to delay creditors, to abuse the process, or for improper purposes - is grounds for dismissal. See our bad faith guide.
 
 4. Failure to comply with filing requirements
 
@@ -228,13 +232,13 @@ What happens after dismissal?
 
 When a Chapter 7 case is dismissed, the automatic stay lifts and creditors can resume collection. You can typically refile unless the court orders otherwise under § 109(g). If the dismissal is for abuse, the court may impose a 180-day bar on refiling or conditions on any future filing.
 
-Conversion is often an option. If your Chapter 7 case is at risk of dismissal for means test failure, you may be able to convert to Chapter 13 under 11 U.S.C. § 706(a). Chapter 13 does not have a means test -- instead, your income determines your plan payment amount.
+Conversion is often an option. If your Chapter 7 case is at risk of dismissal for means test failure, you may be able to convert to Chapter 13 under 11 U.S.C. § 706(a). Chapter 13 does not have a means test - instead, your income determines your plan payment amount.
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -249,11 +253,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -286,16 +290,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -372,6 +376,8 @@ Bankruptcy Denial FAQ
 
 Common questions about what happens when bankruptcy does not go as planned.
 
+Home›bankruptcydenied.com›Bankruptcy Denial FAQ
+
 Frequently asked questions
 
 How many times can you file bankruptcy?
@@ -384,7 +390,7 @@ Yes. Under 11 U.S.C. § 727(c), the trustee, a creditor, or the U.S. Trustee can
 
 What is the difference between discharge denial and nondischargeability?
 
-Discharge denial under § 727 means none of your debts are discharged -- you get no fresh start at all. Nondischargeability under § 523 means specific debts survive while the rest are discharged. You can lose the battle on one debt but still win the war on everything else.
+Discharge denial under § 727 means none of your debts are discharged - you get no fresh start at all. Nondischargeability under § 523 means specific debts survive while the rest are discharged. You can lose the battle on one debt but still win the war on everything else.
 
 Does a dismissed bankruptcy hurt my credit?
 
@@ -406,7 +412,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -421,11 +427,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -458,16 +464,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -524,7 +530,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Fraud and Concealment in Bankruptcy -- Discharge Denial
+## Fraud and Concealment in Bankruptcy - Discharge Denial
 Source: https://bankruptcydenied.com/fraud-concealment.html
 
 bankruptcydenied.com
@@ -540,9 +546,11 @@ Fraud
 What to Do
 FAQ
 
-Fraud and Concealment -- Discharge Denial
+Fraud and Concealment - Discharge Denial
 
 Hiding assets, lying under oath, or destroying financial records can permanently cost you your bankruptcy discharge.
+
+Home›bankruptcydenied.com›Fraud and Concealment in Bankruptcy - Discharge D
 
 Grounds for discharge denial
 
@@ -554,7 +562,7 @@ The statutory grounds
 
 § 727(a)(3): Concealing, destroying, mutilating, or failing to keep adequate financial records
 
-§ 727(a)(4): Making a false oath or account -- this includes any false statement on your petition, schedules, or at the 341 meeting
+§ 727(a)(4): Making a false oath or account - this includes any false statement on your petition, schedules, or at the 341 meeting
 
 § 727(a)(5): Failing to satisfactorily explain any loss of assets or deficiency of assets to meet liabilities
 
@@ -580,13 +588,13 @@ Social media. Posts showing expensive purchases, travel, or lifestyle inconsiste
 
 Cross-referencing tax returns. Comparing IRS records against the petition reveals omitted income, assets, and transfers.
 
-Discharge denial is permanent for the case. Once denied, there is no appeal or do-over within the same case. You may be able to file a new case in the future (subject to time bars and any refiling restrictions), but you will carry the stigma of a prior denial -- and the court in the new case will scrutinize everything closely.
+Discharge denial is permanent for the case. Once denied, there is no appeal or do-over within the same case. You may be able to file a new case in the future (subject to time bars and any refiling restrictions), but you will carry the stigma of a prior denial - and the court in the new case will scrutinize everything closely.
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -601,11 +609,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -638,16 +646,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -704,7 +712,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Incomplete Paperwork -- When Bankruptcy Is Dismissed for Missing Documents
+## Incomplete Paperwork - When Bankruptcy Is Dismissed for Missing Documents
 Source: https://bankruptcydenied.com/incomplete-paperwork.html
 
 bankruptcydenied.com
@@ -720,27 +728,29 @@ Fraud
 What to Do
 FAQ
 
-Incomplete Paperwork -- Procedural Dismissal
+Incomplete Paperwork - Procedural Dismissal
 
 Filing bankruptcy requires extensive documentation. Missing deadlines or omitting required documents leads to automatic dismissal.
+
+Home›bankruptcydenied.com›Incomplete Paperwork - When Bankruptcy Is Dismiss
 
 Required documents and deadlines
 
 Under 11 U.S.C. § 521, the debtor must file a substantial set of documents:
 
-Schedules A/B through J -- assets, liabilities, income, expenses, executory contracts
+Schedules A/B through J - assets, liabilities, income, expenses, executory contracts
 
-Statement of Financial Affairs (SOFA) -- comprehensive financial history
+Statement of Financial Affairs (SOFA) - comprehensive financial history
 
 Means test form (Chapter 7) or Chapter 13 plan
 
-Credit counseling certificate -- must be completed within 180 days before filing
+Credit counseling certificate - must be completed within 180 days before filing
 
-Tax returns -- most recent year filed, provided to the trustee at least 7 days before the 341 meeting
+Tax returns - most recent year filed, provided to the trustee at least 7 days before the 341 meeting
 
-Pay stubs -- 60 days of pay advices, provided to the trustee before the 341 meeting
+Pay stubs - 60 days of pay advices, provided to the trustee before the 341 meeting
 
-Photo ID and SSN verification -- presented at the 341 meeting
+Photo ID and SSN verification - presented at the 341 meeting
 
 If schedules are not filed within 14 days of the petition (or an extended deadline), the case is automatically dismissed under § 521(i).
 
@@ -756,7 +766,7 @@ Missing the 341 meeting. Failure to attend is grounds for dismissal. See what ha
 
 How to avoid procedural dismissal
 
-Gather all required documents before filing -- do not file first and gather later
+Gather all required documents before filing - do not file first and gather later
 
 Complete credit counseling before your attorney files the petition
 
@@ -772,7 +782,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -787,11 +797,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -824,16 +834,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -890,8 +900,10 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Bankruptcy Denied? -- What to Do Next [2026]
+## Bankruptcy Denied? - What to Do Next [2026]
 Source: https://bankruptcydenied.com/
+
+Skip to main content
 
 bankruptcydenied.com
 ☰
@@ -957,7 +969,7 @@ How hiding assets, lying under oath, and destroying records can result in perman
 
 What to Do If Denied
 
-Your options after denial -- refiling, converting to another chapter, appealing, or negotiating with creditors.
+Your options after denial - refiling, converting to another chapter, appealing, or negotiating with creditors.
 
 FAQ
 
@@ -977,7 +989,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -992,11 +1004,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -1099,16 +1111,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -1171,9 +1183,15 @@ FAQ
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
+Privacy Policy
+
+Rule 9037 PII Scanner - Free open-source tool to detect unredacted personal information in court filings
+
+Cited by the Federal Rules Committee (26-BK-3)
+
 ---
 
-## Means Test Failure -- What Happens If You Fail
+## Means Test Failure - What Happens If You Fail
 Source: https://bankruptcydenied.com/means-test-failure.html
 
 bankruptcydenied.com
@@ -1189,9 +1207,11 @@ Fraud
 What to Do
 FAQ
 
-Means Test Failure -- Now What?
+Means Test Failure - Now What?
 
-Failing the means test does not mean you cannot file bankruptcy. It means Chapter 7 may not be available -- but you have options.
+Failing the means test does not mean you cannot file bankruptcy. It means Chapter 7 may not be available - but you have options.
+
+Home›bankruptcydenied.com›Means Test Failure - What Happens If You Fail
 
 How the means test works
 
@@ -1215,15 +1235,15 @@ Convert to Chapter 13. Chapter 13 has no means test. Your income determines your
 
 Wait and refile. If your income is temporarily high (overtime, bonus, seasonal work), waiting until it normalizes may change the means test result. The test uses a 6-month lookback.
 
-Adjust deductions. Legitimate increases in expenses -- higher mortgage payments, medical costs, childcare -- can change the calculation.
+Adjust deductions. Legitimate increases in expenses - higher mortgage payments, medical costs, childcare - can change the calculation.
 
-Failing the means test is not the end. Chapter 13 is available regardless of income, and many people who fail the means test successfully complete Chapter 13 plans. The means test only gates access to Chapter 7 -- it does not prevent bankruptcy relief entirely.
+Failing the means test is not the end. Chapter 13 is available regardless of income, and many people who fail the means test successfully complete Chapter 13 plans. The means test only gates access to Chapter 7 - it does not prevent bankruptcy relief entirely.
 
 Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1238,11 +1258,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -1275,16 +1295,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -1341,7 +1361,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 ---
 
-## Prior Bankruptcy Dismissal -- How It Affects Your New Case
+## Prior Bankruptcy Dismissal - How It Affects Your New Case
 Source: https://bankruptcydenied.com/prior-dismissal.html
 
 bankruptcydenied.com
@@ -1360,6 +1380,8 @@ FAQ
 Prior Dismissal and Refiling
 
 If your previous bankruptcy was dismissed, your new case faces special rules. Reduced stay protection, refiling bars, and heightened scrutiny.
+
+Home›bankruptcydenied.com›Prior Bankruptcy Dismissal - How It Affects Your
 
 The 180-day refiling bar
 
@@ -1405,7 +1427,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1420,11 +1442,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -1457,16 +1479,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -1543,6 +1565,8 @@ What to Do If Bankruptcy Is Denied
 
 Denial is not always the end. You may be able to refile, convert chapters, appeal, or pursue alternative debt relief.
 
+Home›bankruptcydenied.com›What to Do If Your Bankruptcy Is Denied or Dismiss
+
 Understand why it happened
 
 The first step is understanding exactly why your case was denied or dismissed. The reason determines your options:
@@ -1557,7 +1581,7 @@ Bad faith / abuseAddress underlying issues, wait 180 days if barred, then refile
 
 Prior discharge time barWait for the bar to expire (use 1328f.com to check)
 
-Discharge denied (fraud)Consult an attorney -- very limited options in current case
+Discharge denied (fraud)Consult an attorney - very limited options in current case
 
 Plan not confirmed (Ch. 13)Amend plan and resubmit, or convert to Chapter 7
 
@@ -1591,7 +1615,7 @@ Related Guides
 
 Can I File Bankruptcy Again?
 
-Bankruptcy Dismissed -- What Now?
+Bankruptcy Dismissed - What Now?
 
 File Bankruptcy Again Guide
 
@@ -1606,11 +1630,11 @@ The Means Test
 
 Related Resources
 
-The Means Test -- Section 707(b) income test for Chapter 7 eligibility
+The Means Test - Section 707(b) income test for Chapter 7 eligibility
 
-Chapter 7 vs Chapter 13 -- Side-by-side comparison of liquidation vs repayment plans
+Chapter 7 vs Chapter 13 - Side-by-side comparison of liquidation vs repayment plans
 
-Pro Se Bankruptcy Guide -- Filing without an attorney -- what you need to know
+Pro Se Bankruptcy Guide - Filing without an attorney - what you need to know
 
 Federal Rules Committee
 
@@ -1643,16 +1667,16 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy denial and dismissal:
 
 11 U.S.C. Section 707
-Cornell LII -- Chapter 7 dismissal
+Cornell LII - Chapter 7 dismissal
 
 11 U.S.C. Section 1307
-Cornell LII -- Chapter 13 dismissal
+Cornell LII - Chapter 13 dismissal
 
 Bankruptcy Basics
 USCourts.gov
 
 U.S. Trustee Program
-DOJ -- motions to dismiss
+DOJ - motions to dismiss
 
 CFPB: Bankruptcy Overview
 Consumer guide
@@ -1706,3 +1730,75 @@ FAQ
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+---
+
+## Privacy Policy - bankruptcydenied.com
+Source: https://bankruptcydenied.com/privacy.html
+
+bankruptcydenied.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.

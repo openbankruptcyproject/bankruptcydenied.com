@@ -1,19 +1,20 @@
-# Bankruptcy Denied? -- What to Do Next [2026]
+# Bankruptcy Denied? - What to Do Next [2026]
 > Was your bankruptcy denied or dismissed? Learn the common reasons, how to appeal, and how to refile successfully. 2026 guide.
 
 ## About
 bankruptcydenied.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Bad Faith Bankruptcy Filing -- What It Means: https://bankruptcydenied.com/bad-faith-filing.html
-- Chapter 7 Bankruptcy Denial -- Why Cases Get Dismissed: https://bankruptcydenied.com/chapter-7-denial.html
+- Bad Faith Bankruptcy Filing - What It Means: https://bankruptcydenied.com/bad-faith-filing.html
+- Chapter 7 Bankruptcy Denial - Why Cases Get Dismissed: https://bankruptcydenied.com/chapter-7-denial.html
 - Bankruptcy Denial FAQ: https://bankruptcydenied.com/faq.html
-- Fraud and Concealment in Bankruptcy -- Discharge Denial: https://bankruptcydenied.com/fraud-concealment.html
-- Incomplete Paperwork -- When Bankruptcy Is Dismissed for Missing Documents: https://bankruptcydenied.com/incomplete-paperwork.html
-- Bankruptcy Denied? -- What to Do Next: https://bankruptcydenied.com/
-- Means Test Failure -- What Happens If You Fail: https://bankruptcydenied.com/means-test-failure.html
-- Prior Bankruptcy Dismissal -- How It Affects Your New Case: https://bankruptcydenied.com/prior-dismissal.html
+- Fraud and Concealment in Bankruptcy - Discharge Denial: https://bankruptcydenied.com/fraud-concealment.html
+- Incomplete Paperwork - When Bankruptcy Is Dismissed for Missing Documents: https://bankruptcydenied.com/incomplete-paperwork.html
+- Bankruptcy Denied? - What to Do Next: https://bankruptcydenied.com/
+- Means Test Failure - What Happens If You Fail: https://bankruptcydenied.com/means-test-failure.html
+- Prior Bankruptcy Dismissal - How It Affects Your New Case: https://bankruptcydenied.com/prior-dismissal.html
 - What to Do If Your Bankruptcy Is Denied or Dismissed: https://bankruptcydenied.com/what-to-do-if-denied.html
+- Privacy Policy: https://bankruptcydenied.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
