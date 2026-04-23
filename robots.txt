@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bankruptcydenied.com/sitemap.xml
+
+Sitemap: https://bankruptcydenied.com/sitemapindex.xml
